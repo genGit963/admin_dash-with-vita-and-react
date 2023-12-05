@@ -1,0 +1,25 @@
+.iconText_style{
+    position: absolute;
+    justify-content: center;
+    background-color: #bf000098;
+    border-radius: 5px;
+    margin: 2px;
+    font-size: 10px;
+}
+.button_icon{
+    justify-content: center;
+    margin: auto;
+}
+.sideBarMenu{
+    border-radius: 10px;
+    margin: 2px 0px;
+    color: #f0f0f0;
+}
+.cardContainer{
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #f0f0f0;
+}
+.Style_ListItemIcon{
+    color: inherit;
+}
